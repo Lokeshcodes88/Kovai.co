@@ -14,7 +14,7 @@ The dataset was cleaned, sorted by date, and missing values were removed before 
 
 ## Key Insights
 1. The service type with the **highest average passengers** is **'Rapid Route'**, averaging **12,630 passengers per day**.
-2. **'Rapid Route'** shows the **highest volatility**, indicating irregular passenger patterns across the observed timeline.
+2. **'Rapid Route'** shows the **highest volatility**.
 3. **'School'** services display the **highest growth rate**.
 4. The **strongest correlation (0.97)** exists between **'Light Rail'** and **'Rapid Route'**, suggesting shared demand patterns and possible operational interdependence.
 
